@@ -6,7 +6,7 @@
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white%22"/>
-  <img alt="Flutter" src="https://img.shields.io/badge/JAVA-%23F5792A.svg?style=for-the-badge&logo=SQL&logoColor=white%22"/>
+  <img alt="Flutter" src="https://img.shields.io/badge/dart-%23F5792A.svg?style=for-the-badge&logo=SQL&logoColor=white%22"/>
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
@@ -70,7 +70,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scientistwsy&layout=donut" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/matheusssleite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheusssleite" height="15" width="25" /></a>
-<a href="mailto:matheusflute03@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="matheusssleite" height="10" width="13" /></a>
+<a href="https://linkedin.com/in/matheusssleite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheusvieira" height="15" width="25" /></a>
+<a href="mailto:vieiramatheus72@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="matheusvieira" height="10" width="13" /></a>
 </p>
 -->
