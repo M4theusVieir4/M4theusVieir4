@@ -16,7 +16,7 @@
   <!--<img alt="VueJs" src="https://img.shields.io/badge/vue.JS-%23239120?style=for-the-badge&logo=vue-js"/> -->
   <img alt= "dotNET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   <!-- <img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"/> -->
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+  <img alt="Flutter" src="![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)"/>
 </p>
 
 <h3 align="left">Databases:</h3>
