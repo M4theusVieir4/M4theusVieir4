@@ -6,7 +6,7 @@
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white%22"/>
-  <img alt="Flutter" src="https://img.shields.io/badge/dart-%23F5792A.svg?style=for-the-badge&logo=SQL&logoColor=white%22"/>
+  <img alt="Dart" src="https://img.shields.io/badge/dart-%23F5792A.svg?style=for-the-badge&logo=SQL&logoColor=white%22"/>
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
@@ -16,7 +16,7 @@
   <!--<img alt="VueJs" src="https://img.shields.io/badge/vue.JS-%23239120?style=for-the-badge&logo=vue-js"/> -->
   <img alt= "dotNET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   <!-- <img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"/> -->
-  <img alt="Flutter" src="![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)"/>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
 </p>
 
 <h3 align="left">Databases:</h3>
