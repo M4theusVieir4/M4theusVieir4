@@ -23,6 +23,7 @@
 <p align="left">
   <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-%23316190.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="SQL" src ="https://img.shields.io/badge/SQL-%23DB3434?style=for-the-badge&logoColor=white%22"/>
+  <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 <h3 align="left">Learning:</h3>
